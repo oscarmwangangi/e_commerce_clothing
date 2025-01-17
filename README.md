@@ -24,6 +24,11 @@ Welcome to **Welling Clothes**, an online fashion store that offers a wide varie
 <!-- - **Payment Gateway**: Stripe/PayPal API -->
 - **Deployment**: Heroku/AWS
 
+## clone
+```bash
+git clone https://github.com/oscarmwangangi/e_commerce_clothing.git
+```
+
 ## Installation
 ```bash
 pip install -r requirements.txt
@@ -34,7 +39,6 @@ cd frontend
 ```bash
 npm install
 ```
-# clothing-e-commerce
-# e_commerce_clothing
-# e_commerce_clothing
-# e_commerce_clothing
+
+
+
