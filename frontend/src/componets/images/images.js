@@ -1,6 +1,6 @@
 const images = [
     {
-        img: "/images/darko-mitev-c5t_j1zlk1Y-unsplash.jpg", // Adjust path to match location
+        img: "/images/darko-mitev-c5t_j1zlk1Y-unsplash.jpg", 
         alt: "A beautiful landscape with mountains",
     },
 ];

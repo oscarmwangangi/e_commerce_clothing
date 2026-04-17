@@ -31,7 +31,7 @@ const Carousel = ({ apiEndpoint, linkPrefix, source }) => {
     handleProductClick(product); // Existing click logic if any
   };
   return (
-    <section className="mb-16 w-full relative mt-24 pt-4" id="carousel">
+    <section className="mb-8 w-full relative  pt-4" id="carousel">
       {/* <h2 className="text-xl font-bold mb-4">{source}</h2> Display source title */}
       <Swiper
         spaceBetween={5}

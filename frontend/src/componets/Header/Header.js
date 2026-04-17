@@ -7,7 +7,7 @@ function Header() {
             <div className="bg-[#c5b1ae] h-12 w-full">
                 <p className="text-[#424242] text-center text-lg">Dream fabric</p>
             </div>
-            <div className="sticky top-0 bg-black bg-opacity-10 left-0 w-full bg-black/1 h-28 z-20 flex items-center">
+            <div className="sticky top-0 bg-black bg-opacity-80 left-0 w-full bg-black/1 h-28 z-20 flex items-center">
                 <nav className="container flex items-center justify-around">
                     {/* Search Bar */}
                     <div className="text-2xl font-semibold text-pink-600">

@@ -640,7 +640,7 @@ const Admin = () => {
     <input
       type="file"
       name="image"
-      value={newProductTwo.image}
+    //   value={newProductTwo.name}
       onChange={handleProductTwoChange}
       className="p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
     />

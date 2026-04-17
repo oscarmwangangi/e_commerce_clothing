@@ -62,7 +62,7 @@ function Products() {
               <img
                 src={product.image}
                 alt={product.name}
-                className="w-full h-screen object-cover"
+                className="w-svw h-[100vh]   "
               />
             </Link>
           ))}
@@ -72,8 +72,8 @@ function Products() {
       <Carousel />
 
       {/* Products Two */}
-      <section className="bg-gray-100" id="products_two">
-        <div className="m-0 p-0 flex gap-0">
+      {/* <section className="bg-gray-100" id="products_two">
+        <div className="m-0 p-0 flex ">
           {productsTwo.map((product, index) => (
             <Link
               to={`/product/products_two/${product.id}`}
@@ -84,12 +84,12 @@ function Products() {
               <img
                 src={product.image}
                 alt={product.name}
-                className="w-full h-screen object-cover"
+                className="w-full h-auto object-cover"
               />
             </Link>
           ))}
         </div>
-      </section>
+      </section> */}
 
       <Grafiti />
 
